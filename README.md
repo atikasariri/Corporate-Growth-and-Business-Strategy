@@ -18,7 +18,7 @@ _**Key Frameworks & Analytics Used**_
 
 
 _**How to View the Portfolio**_
-* **[Click Here to Open/Download (PDF)](https://raw.githubusercontent.com/atikasariri/Corporate-Growth-Capital-Allocation/main/Corporate-Growth-Strategy.pdf)**
+* **[Click Here to Open/Download (PDF)](https://raw.githubusercontent.com/atikasariri/Corporate-Growth-And-Business-Strategy/main/Corporate-Growth-&-Business-Strategy.pdf)**
 * **Main Portfolio Website:** [atikasariri.github.io/Atikasari.github.io](https://atikasariri.github.io/Atikasari.github.io/)
 
 
