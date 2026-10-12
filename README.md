@@ -1,4 +1,4 @@
-# **Corporate Growth & Capital Allocation Strategy**
+# **Corporate Growth & Business Strategy**
 
 _**Executive Summary**_
 
